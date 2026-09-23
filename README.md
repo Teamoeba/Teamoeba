@@ -36,8 +36,6 @@ Seorang kreator dan developer yang suka mengulik teknologi, membuat sistem otoma
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teamoeba&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Teamoeba" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teamoeba&theme=tokyonight&hide_border=true" alt="Statistik Streak Teamoeba" />
 </div>
 
